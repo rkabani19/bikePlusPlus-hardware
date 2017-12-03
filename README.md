@@ -1,14 +1,14 @@
 # bike++
 
-###Hardware
+### Hardware
 * Arduino UNO
 * Onion Omega IoT Device
 
-###Software
+### Software
 * C/C++
 * Shell Scripting 
 
-###Features
+### Features
 * Autonomous bike lock mechanism
 ..* based on bluetooth proximity
 * Automated blinker lights with animations

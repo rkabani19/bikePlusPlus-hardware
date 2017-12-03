@@ -11,6 +11,6 @@
 ### Features
 * Autonomous bike lock mechanism
   * based on bluetooth proximity
-* Automated blinker lights with animations
+* Automated signal lights with animations
 * Compute bike-related statistics
 * Inclination, and calories burned data
